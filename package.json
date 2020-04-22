@@ -8,7 +8,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "heroku-postbuild": "ng build --prod",
-    "typescript": "~3.8.3",
+
     "start": "node server.js"
   },
   "private": true,
